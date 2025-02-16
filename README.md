@@ -1,0 +1,3 @@
+"# Diabetes_Prediction" 
+"" 
+"This project aims to build machine learning models to predict diabetes status (positive or negative) using medical and demographic data. By analyzing key features such as age, gender, BMI, hypertension, heart disease, smoking history, HbA1c level, and blood glucose level, the model helps identify individuals at risk of developing diabetes. This can aid healthcare professionals in early diagnosis and personalized treatment planning." 
